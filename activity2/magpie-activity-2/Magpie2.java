@@ -53,7 +53,7 @@ public class Magpie2
         }
         else if (statement.indexOf("Cooper") >= 0)
         {
-            response = "He sound like a good teacher.";
+            response = "He sounds like a good teacher.";
         } 
         else if (statement.indexOf("Why") >= 0)
         {
@@ -65,7 +65,7 @@ public class Magpie2
         }
         else if (statement.indexOf("hate") >= 0)
         {
-            response = "The only thing worse" +
+            response = "The only thing worse " +
                        "than that is the quality of my responses.";
             
         }
